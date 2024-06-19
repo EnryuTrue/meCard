@@ -1,0 +1,17 @@
+.icon-bar {
+    background-color: #000;
+    padding: 10px 0;
+    text-align: center; 
+}
+
+.icon-bar a {
+    display: inline-block; 
+    margin-right: 20px; 
+    text-decoration: none; 
+}
+
+.icon-bar img {
+    width: 40px; 
+    height: auto;
+    vertical-align: middle; 
+}
